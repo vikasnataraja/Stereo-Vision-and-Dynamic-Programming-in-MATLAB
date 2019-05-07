@@ -10,3 +10,6 @@ This project aims to explore the different types of disparity calculation algori
 1. Open test_script.m which is the main file. To test SSD, NCC, depth calculation and outlier maps, use this script. Run the whole script and you should see the images in different figures appropriately named.
 2. To test dynamic programming and depth recovery, use test_dynamic.m and run.
 3. The folder 'output_images' contains my results. Feel free to compare
+
+## References:
+Ioana Fleming, CU Boulder
